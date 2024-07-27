@@ -61,6 +61,7 @@ html
 
   nav h1 {
     color: #000000;
+
   }
   
   nav a {
@@ -98,10 +99,26 @@ html
     gap: 2.5rem;
     max-width: 68.75rem;
     margin: auto;
-
   }
 
-  .title{
 
-
+  .hero img {
+    height: 37.5rem;
+    width: 37.5rem;
+  }
+  
+  .bio {
+    width: 25rem;
+    padding: 0.625rem;
+    border-radius: 6px;
+    box-shadow: 0px 2px 15px 2px var(--primary-shadow);
+  }
+  
+  .bio h1 {
+    margin-bottom: var(--bottom-margin);
+  }
+  
+  .bio p {
+    line-height: var(--line-height);
+    padding: 0.3rem 0;
   }
