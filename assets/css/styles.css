@@ -186,13 +186,10 @@ input:checked+.slider:before {
     display: none;
   }
 
- .logo{
-    max-width: 30px;
- }
-
  .logo-image{
-    max-width: 30px;
-    top: -1px;
+    width: 3rem;
+    height: 3rem;
+    top: -10px;
  }
 
 /*About me settings*/
