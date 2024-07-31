@@ -191,6 +191,7 @@ input:checked+.slider:before {
  }
 
  .logo-image{
+    max-width: 30px;
     top: -1px;
  }
 
